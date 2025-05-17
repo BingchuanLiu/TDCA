@@ -1,7 +1,7 @@
 
 # 🧠 Task-discriminant component analysis
 
-This is the MATLAB example script for TDCA (Liu et al, TNSRE, 2021). Hope this code could be helpful to your study. We would appreciate it if you cite our work in your study. 😊
+This is the MATLAB example script for TDCA (Liu et al, TNSRE, 2021). Hope this code could be helpful to you. We would appreciate it if you cite our work in your study. 😊
 
 <pre> @article{liu2021improving,
   title={Improving the performance of individually calibrated SSVEP-BCI by task-discriminant component analysis},
